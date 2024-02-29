@@ -5,4 +5,10 @@
     }
 body{
     background-image: url(kep01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 50px;
+}
+#gombok{
+    height: 50px;
 }
