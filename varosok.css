@@ -12,3 +12,9 @@ body{
 #gombok{
     height: 50px;
 }
+
+.idk{
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}
