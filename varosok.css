@@ -4,8 +4,8 @@
     width: 100%;
     }
 #indexbody{
-    background-image: url(kep01.png);
-    background-repeat: no-repeat;
+    background-image: url(kep01c.png);
+    background-repeat: repeat;
     background-size: cover;
     background-position-y: 50px;
 }
@@ -19,26 +19,29 @@
     text-align: center;
 }
 #Tokyobody{
-    background-image: url(kep02.png);
+    background-image: url(kep02c.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: 50px;
 }
 #Osakabody{
-    background-image: url(kep03.png);
+    background-image: url(kep03c.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: 50px;
 }
 #Moszkvabody{
-    background-image: url(kep04.png);
+    background-image: url(kep04c.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: 50px;
 }
 #Budapestbody{
-    background-image: url(kep05.png);
+    background-image: url(kep05c.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: 50px;
+}
+@media (min-width: 1149px){
+    
 }
