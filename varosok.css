@@ -1,47 +1,92 @@
-#tabla01{
-    background-color: #4f43d9;
-    height: 120pt;
-    width: 100%;
+@media (max-width: 450px){
+    #tabla01{
+        background-color: #4f43d9;
+        height: 120pt;
+        width: 100%;
+        }
+    #indexbody{
+        background-color: aqua;
+        background-repeat: repeat;
+        background-size: cover;
+        background-position-y: 50px;
     }
-#indexbody{
-    background-image: url(kep01c.png);
-    background-repeat: repeat;
-    background-size: cover;
-    background-position-y: 50px;
-}
-#gombok{
-    height: 50px;
-}
-
-.idk{
-    align-items: center;
-    align-self: center;
-    text-align: center;
-}
-#Tokyobody{
-    background-image: url(kep02c.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-y: 50px;
-}
-#Osakabody{
-    background-image: url(kep03c.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-y: 50px;
-}
-#Moszkvabody{
-    background-image: url(kep04c.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-y: 50px;
-}
-#Budapestbody{
-    background-image: url(kep05c.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-y: 50px;
-}
-@media (min-width: 1149px){
+    #gombok{
+        height: 50px;
+    }
     
+    .idk{
+        align-items: center;
+        align-self: center;
+        text-align: center;
+    }
+    #Tokyobody{
+        background-color: aqua;
+        background-repeat: repeat;
+        background-size: cover;
+        background-position-y: 50px;
+    }
+    #Osakabody{
+        background-color: aqua;
+        background-repeat: repeat;
+        background-size: cover;
+        background-position-y: 50px;
+    }
+    #Moszkvabody{
+        background-color: aqua;
+        background-repeat: repeat;
+        background-size: cover;
+        background-position-y: 50px;
+    }
+    #Budapestbody{
+        background-color: aqua;
+        background-repeat: repeat;
+        background-size: cover;
+        background-position-y: 50px;
+    }
+}
+@media (min-width: 451px){
+    #tabla01{
+        background-color: #4f43d9;
+        height: 120pt;
+        width: 100%;
+        }
+    #indexbody{
+        background-image: url(kep01c.png);
+        background-repeat: repeat;
+        background-size: cover;
+        background-position-y: 50px;
+    }
+    #gombok{
+        height: 50px;
+    }
+    
+    .idk{
+        align-items: center;
+        align-self: center;
+        text-align: center;
+    }
+    #Tokyobody{
+        background-image: url(kep02c.png);
+        background-repeat: repeat;
+        background-size: cover;
+        background-position-y: 50px;
+    }
+    #Osakabody{
+        background-image: url(kep03c.png);
+        background-repeat: repeat;
+        background-size: cover;
+        background-position-y: 50px;
+    }
+    #Moszkvabody{
+        background-image: url(kep04c.png);
+        background-repeat: repeat;
+        background-size: cover;
+        background-position-y: 50px;
+    }
+    #Budapestbody{
+        background-image: url(kep05c.png);
+        background-repeat: repeat;
+        background-size: cover;
+        background-position-y: 50px;
+    }
 }
