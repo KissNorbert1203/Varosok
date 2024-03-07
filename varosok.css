@@ -1,11 +1,11 @@
-@media (max-width: 450px){
+@media (max-width: 850px){
     #tabla01{
         background-color: #4f43d9;
         height: 120pt;
         width: 100%;
         }
     #indexbody{
-        background-color: aqua;
+        background-color: navy;
         background-repeat: repeat;
         background-size: cover;
         background-position-y: 50px;
@@ -20,31 +20,31 @@
         text-align: center;
     }
     #Tokyobody{
-        background-color: aqua;
+        background-color: navy;
         background-repeat: repeat;
         background-size: cover;
         background-position-y: 50px;
     }
     #Osakabody{
-        background-color: aqua;
+        background-color: navy;
         background-repeat: repeat;
         background-size: cover;
         background-position-y: 50px;
     }
     #Moszkvabody{
-        background-color: aqua;
+        background-color: navy;
         background-repeat: repeat;
         background-size: cover;
         background-position-y: 50px;
     }
     #Budapestbody{
-        background-color: aqua;
+        background-color: navy;
         background-repeat: repeat;
         background-size: cover;
         background-position-y: 50px;
     }
 }
-@media (min-width: 451px){
+@media (min-width: 850px){
     #tabla01{
         background-color: #4f43d9;
         height: 120pt;
@@ -89,4 +89,29 @@
         background-size: cover;
         background-position-y: 50px;
     }
+}
+
+p {
+    color: white;
+}
+
+#tablatext {
+    float: left;
+    text-align: left;
+    margin-right: 60%;
+    margin-left: 1%;
+}
+
+#foldal {
+    float: left;
+    text-align: left;
+    margin-right: 60%;
+    margin-left: 1%;
+}
+
+h1 {
+    float: left;
+    text-align: left;
+    margin-right: 60%;
+    margin-left: 1%;
 }
